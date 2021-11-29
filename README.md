@@ -1,4 +1,5 @@
 ## Go-Session
+[![Go](https://github.com/junhaideng/go-session/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/junhaideng/go-session/actions/workflows/go.yml)
 
 ### client
 
